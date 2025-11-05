@@ -1,6 +1,6 @@
 # Project Alpha
 
-**Project Alpha** is a self-hosted infrastructure platform designed to run virtual machines and containers for hosting a wide range of services and applications. The project aims to provide a robust learning simulating production environment, primarily for personal and educational use leveraging open source softwares, applications, recycled hardware. Project Alpha's backbone is Cisco hardware and two tier network architecture to deliver high availability and scalability.
+**Project Alpha** is a self-hosted infrastructure platform designed to run virtual machines and containers for hosting a wide range of services and applications. The project aims to provide a robust learning simulating production environment, primarily for personal and educational use leveraging open source softwares, applications and recycled hardware. Project Alpha's backbone run on Proxmox Virtual Environment using Dell Servers and Cisco hardware using two tier network architecture to deliver high availability and scalability.
 
 ## Purpose
 
